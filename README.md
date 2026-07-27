@@ -16,8 +16,9 @@ Business and IT professional with experience analyzing data, developing KPI repo
 
 ## 📂 Featured Projects
 
-- Atlanta Signalized Intersections Dashboard
-- Zoom Phone Call Analytics Dashboard *(Coming Soon)*
+- [📊 Atlanta Signalized Intersections Dashboard](https://github.com/FayeBrooks/Data-Analytics-Portfolio/tree/main/Atlanta-Housing-Dashboard)
+
+- ☎️ Zoom Phone Call Analytics Dashboard *(Coming Soon)*
 
 ## 🌱 Currently Learning
 
