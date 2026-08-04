@@ -13,8 +13,7 @@ Business and IT professional with experience analyzing data, developing KPI repo
 - Data Analysis
 - KPI Reporting
 - Data Visualization
-
-## 📂 Featured Projects
+- 
 
 ## 📁 Featured Projects
 
