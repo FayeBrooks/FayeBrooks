@@ -17,7 +17,7 @@ Business and IT professional with experience analyzing data, developing KPI repo
 
 ## 📁 Featured Projects
 
-- 🚦 [Atlanta Signalized Intersections Dashboard](YOUR_SIGNALIZED_INTERSECTIONS_LINK)
+- 🚦 [Atlanta Signalized Intersections Dashboard](https://github.com/FayeBrooks/Data-Analytics-Portfolio/tree/main/Atlanta-Housing-Dashboard)
 - 🛡️ [Enterprise Vulnerability Intelligence Dashboard](https://github.com/FayeBrooks/Enterprise-Vulnerability-Intelligence-Dashboard)
 
 
