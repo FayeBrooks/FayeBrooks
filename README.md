@@ -17,7 +17,7 @@ Business and IT professional with experience analyzing data, developing KPI repo
 
 ## 📁 Featured Projects
 
--  [Financial Performance Dashboard](https://github.com/FayeBrooks/Financial-Performance-Dashboard)
+- 📊 [Financial Performance Dashboard](https://github.com/FayeBrooks/Financial-Performance-Dashboard)
 - 🛡️ [Enterprise Vulnerability Intelligence Dashboard](https://github.com/FayeBrooks/Enterprise-Vulnerability-Intelligence-Dashboard)
 - 🚦 [Atlanta Signalized Intersections Dashboard](https://github.com/FayeBrooks/Atlanta-Signalized-Intersections-Dashboard)
 
